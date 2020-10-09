@@ -1,0 +1,63 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 1"
+    ],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "plan",
+        "title": "2. Plan de acción",
+        "anchor": "tema4-1"      
+      }      
+    ]
+  },  
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "mapa",
+    "title": "3. Mapa de Actores",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 3"
+    ],
+    "path": "pages/2-tema.html"
+  }, 
+  {
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "despliegue",
+    "title": "4. Despliegue de las estrategias operativas en la toma de decisiones en la gestión del sector salud en función de los ejes de la política",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 4"
+    ],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "marcoestrategico",
+        "title": "5. Reportes y cumplimientos",
+        "anchor": "tema4-1"      
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "marcoestrategico",
+        "title": "6. Seguimiento, monitoreo y evaluación",
+        "anchor": "tema4-1"      
+      }            
+    ]  
+  }
+]
