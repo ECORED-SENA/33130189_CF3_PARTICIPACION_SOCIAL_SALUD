@@ -18,9 +18,9 @@
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "plan",
+        "slug": "introduccion",
         "title": "2. Plan de acción",
-        "anchor": "tema4-1"      
+        "anchor": "tema1-2"      
       }      
     ]
   },  
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "icon": "fa fa-file-text-o",
-    "slug": "despliegue",
+    "slug": "estrategias",
     "title": "4. Despliegue de las estrategias operativas en la toma de decisiones en la gestión del sector salud en función de los ejes de la política",
     "breadcrumb": [
       "Inicio",
@@ -48,15 +48,15 @@
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "marcoestrategico",
+        "slug": "estrategias",
         "title": "5. Reportes y cumplimientos",
         "anchor": "tema4-1"      
       }, 
       {
         "icon": "fa fa-file-text",
-        "slug": "marcoestrategico",
+        "slug": "estrategias",
         "title": "6. Seguimiento, monitoreo y evaluación",
-        "anchor": "tema4-1"      
+        "anchor": "tema4-2"      
       }            
     ]  
   }
