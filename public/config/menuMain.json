@@ -9,55 +9,48 @@
     "id": 1,
     "icon": "fa fa-file-text-o",
     "slug": "introduccion",
-    "title": "Introducción",
-    "breadcrumb": [
-      "Inicio",
-      "Tema 1"
-    ],
-    "path": "pages/1-tema.html",
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "introduccion",
-        "title": "2. Plan de acción",
-        "anchor": "tema1-2"      
-      }      
-    ]
+    "title": "1. Introducción",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
   },  
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "plan",
+    "title": "2. Plan de acción",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html"
+  },
   {
     "id": 3,
     "icon": "fa fa-file-text-o",
     "slug": "mapa",
     "title": "3. Mapa de Actores",
-    "breadcrumb": [
-      "Inicio",
-      "Tema 3"
-    ],
-    "path": "pages/2-tema.html"
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html"
   }, 
   {
     "id": 4,
     "icon": "fa fa-file-text-o",
     "slug": "estrategias",
     "title": "4. Despliegue de las estrategias operativas en la toma de decisiones en la gestión del sector salud en función de los ejes de la política",
-    "breadcrumb": [
-      "Inicio",
-      "Tema 4"
-    ],
-    "path": "pages/3-tema.html",
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "estrategias",
-        "title": "5. Reportes y cumplimientos",
-        "anchor": "tema4-1"      
-      }, 
-      {
-        "icon": "fa fa-file-text",
-        "slug": "estrategias",
-        "title": "6. Seguimiento, monitoreo y evaluación",
-        "anchor": "tema4-2"      
-      }            
-    ]  
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html"  
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "reportes",
+    "title": "5. Reportes y cumplimientos",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"
+  }, 
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "monitoreo",
+    "title": "6. Seguimiento, monitoreo y evaluación",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/6-tema.html"
   }
 ]
